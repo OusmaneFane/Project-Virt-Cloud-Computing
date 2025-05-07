@@ -1,8 +1,8 @@
 # 🚀 Projet de Supervision d’une Instance AWS EC2 avec Alertes Email
 
 Auteur : **Fane Ousmane**  
-Formation : **[Compléter avec ta formation]**  
-Date : **[Compléter avec la date]**
+Formation : **Virtualisation & Cloud Computing**  
+Date : **07-05-2025**
 
 ---
 
