@@ -1,0 +1,5 @@
+sudo chmod 700 supervise.sh
+sudo chown root:root supervise.sh
+
+ls -ll supervise.sh 
+-rwx------ 1 root root 2286 May 17 11:38 supervise.sh
